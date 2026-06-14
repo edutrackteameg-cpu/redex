@@ -13,8 +13,8 @@
 	display: flex;
 	overflow: hidden;
 	padding: 0 12px;
-	margin: 0 10px 10px 10px !important;
-	border-radius: 12px;
+	margin: 5px 10px 5px 10px !important;
+	border-radius: 18px;
 	background-color: var(--vscode-statusBar-background);
 	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 	border: 1px solid var(--vscode-statusBar-border, rgba(255, 255, 255, 0.1));
