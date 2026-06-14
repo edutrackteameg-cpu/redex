@@ -13,6 +13,8 @@
 
 .monaco-pane-view .pane > .pane-header {
 	position: relative;
+	height: 26px;
+	line-height: 26px;
 }
 
 .monaco-pane-view .pane > .pane-header.not-collapsible .twisty-container {
@@ -44,6 +46,8 @@
 	text-overflow: ellipsis;
 	overflow: hidden;
 	font-size: 11px;
+	font-weight: 600;
+	text-transform: uppercase;
 	min-width: 3ch;
 	-webkit-margin-before: 0;
 	-webkit-margin-after: 0;
